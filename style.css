@@ -1,0 +1,22 @@
+body{
+    margin: 0 auto;
+    width: 75%;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    background-color: #0077c6 ;
+    margin: 10px;
+    color: aliceblue;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+}
+.container div{
+    background-color: #fff1b6;
+    padding: 10px;
+    margin: 10px;
+}
